@@ -1,0 +1,16 @@
+@import url('https: //fonts.googleapis.com/css2?family=Open+Sans:ital@0;1&family=Raleway:ital,wght@0,100;0,400;0,700;1,400;1,700&display=swap');
+
+$accent-color-1: #3065f8;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family:
+    'Raleway',
+    sans-serif;
+}
+
+body {
+  background: $accent-color-1;
+}
